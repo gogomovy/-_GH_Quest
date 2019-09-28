@@ -1,2 +1,2 @@
-# hjpark-_GH_Quest
+# hjpark_GH_Quest
 answers for Growth Hackers' edu session quests
